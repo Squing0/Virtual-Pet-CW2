@@ -1,5 +1,5 @@
 # Virtual Pet
-A console java application in which the user owns a virtual pet, similar to the japanese game series 'tamagotchi'. Done as part of a group project at Edge Hill University.
+A console java application in which the user owns a virtual pet, similar to the japanese game series 'tamagotchi'. Done as part of a group project at Edge Hill University. Grade: 86%.
 
 ## Features
 
